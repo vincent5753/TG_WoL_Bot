@@ -1,0 +1,4 @@
+開機
+boot
+Boot
+BOOT

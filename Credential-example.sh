@@ -1,0 +1,6 @@
+botid="xxxxxxxxxx"
+echo "[Credential] TG_Bot-id: ${botid}"
+TOKEN="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+echo "[Credential] TG_Bot-TOKEN: ${TOKEN}"
+MacAddress="xx:xx:xx:xx:xx:xx"
+echo "[Credential] MacAddress: $MacAddress"
